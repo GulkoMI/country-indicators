@@ -23,7 +23,7 @@
 
 ![фото](img/Schema_DB.png)
 
-![фото2](img/Dashboard_view_1.png)
+![фото2](img/Dashboard_view_1.jpg)
 
 
 
